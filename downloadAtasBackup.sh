@@ -1,5 +1,12 @@
 #!/bin/bash
 
+
+#######################################################################
+##                                                                   ##
+##  Este projeto é licenciado sob os termos da Apache License,       ##
+##  Versão 2.0. Consulte o arquivo LICENSE para obter mais detalhes. ##
+##                                                                   ##
+#######################################################################
 set -euo pipefail
 
 CONFIG_FILE="download.config"
